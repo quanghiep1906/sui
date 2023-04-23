@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"sui_move_natives":[["impl&lt;'a&gt; TidAble&lt;'a&gt; for <a class=\"struct\" href=\"sui_move_natives/object_runtime/struct.ObjectRuntime.html\" title=\"struct sui_move_natives::object_runtime::ObjectRuntime\">ObjectRuntime</a>&lt;'a&gt;"],["impl&lt;'a&gt; TidAble&lt;'a&gt; for <a class=\"struct\" href=\"sui_move_natives/struct.NativesCostTable.html\" title=\"struct sui_move_natives::NativesCostTable\">NativesCostTable</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
